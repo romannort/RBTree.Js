@@ -1,0 +1,66 @@
+#tostring{
+	width: 1000px !important;
+}
+.red{
+	background: #880000;
+	color: #f0f0f0;
+}
+.black{
+	background: #222222;
+	color: #f0f0f0;
+}
+#container {
+	margin: 10px 0px;
+	border: 1px solid #f0f0f0;
+	background: #fcfcfc;
+}
+#container > div {
+	border-radius: 50%;
+	text-align: center;
+	height: 30px;
+	width: 30px;
+	margin-top: 40px;
+}
+#panel{
+	min-height: 200px;
+	min-width: 800px;
+	margin: 10px 0px;
+}
+
+#panel input {
+	display: inline-block;
+	float: left;
+	width: 100px;
+	margin-right: 10px;
+}
+
+.last{
+
+}
+.depth-1{
+	margin-left: 150px;
+}
+.depth-2{
+	margin-left: 300px;	
+}
+.depth-3{
+	margin-left: 450px;
+}
+.depth-4{
+	margin-left: 600px;
+}
+.depth-5{
+	margin-left: 750px;
+}
+.depth-6{
+	margin-left: 900px;
+}
+.depth-7{
+	margin-left: 1050px;
+}
+/*.depth-8{
+	margin-left: 320px;
+}
+.depth-9{
+	margin-left: 360px;
+}*/
